@@ -1,0 +1,8 @@
+{
+    "goodsList":[
+        {"title":"good1","price":"10"},
+        {"title":"good2","price":"20"},
+        {"title":"good3","price":"30"},
+        {"title":"good4","price":"40"}
+    ]
+}
